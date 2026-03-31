@@ -19,7 +19,7 @@ The goal is to:
         .Cleaned inconsistent pricing
         .Created calculated field:
         .total_amount = unit_price * transaction_qty
-        .Created time buckets (hourly or 30-min)
+        .Created time buckets (3 hours)
 
       2.1.3. Data Analysis (Excel)
         .Built pivot tables
